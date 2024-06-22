@@ -1,4 +1,4 @@
-# STAR WARS API :star
+# STAR WARS API :star:
 
 ## How to run
 
