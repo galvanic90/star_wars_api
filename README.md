@@ -23,4 +23,25 @@ $ python3 app.py
 
 $ flask run
 
-``` 
+```
+
+### How to create your `.flaskenv` file
+
+1. Open a terminal and type:
+
+```bash
+$ vim .flaskenv
+
+```  
+
+2. Then edit your file as in the next example:
+
+```bash
+
+FLASK_APP=name of your app
+FLASK_ENV=development or production
+FLASK_DEBUG=1 or 0
+FLASK_RUN_PORT=your port
+
+
+```
